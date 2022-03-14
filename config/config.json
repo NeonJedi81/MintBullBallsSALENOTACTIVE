@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "MAIN",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bullballs",
+  "SYMBOL": "BALL$",
+  "MAX_SUPPLY": 5888,
+  "WEI_COST": 29500000000000000,
+  "DISPLAY_COST": 0.0295,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "TWITTER": "👉JOIN TWITTER!",
+  "TWITTER_LINK": "https://twitter.com/BullBalls_NFT",
+  "DISCORD": "JOIN DISCORD!👈",
+  "DISCORD_LINK": " https://discord.gg/AcNCTKV66E",
+  "SHOW_BACKGROUND": true
+}
